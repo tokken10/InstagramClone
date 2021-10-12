@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "258502615488",
+    "firebase_url": "https://instagram-replic.firebaseio.com",
+    "project_id": "instagram-replic",
+    "storage_bucket": "instagram-replic.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258502615488:android:77d8346791de93ae3b6825",
+        "android_client_info": {
+          "package_name": "com.example.instagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "258502615488-jl3e98vvfcok0gldd2kscpcmsteapjt0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoKm_atGpejL7_7SnbQX4PQd-uUEm5JQ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "258502615488-jl3e98vvfcok0gldd2kscpcmsteapjt0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
